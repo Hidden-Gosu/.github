@@ -41,12 +41,11 @@
 <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat&logo=redux&logoColor=EF2D5E">
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">
 <img src='https://img.shields.io/badge/yarn-v1.22.17-yellow?logo=yarn'/>
-  <img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/>
-   <img src='https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&logoColor=white'/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"/> 
+<img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/>
+<img src='https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&logoColor=white'/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"/> 
 
 **Backend Tech Stack** 
-
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
