@@ -43,13 +43,13 @@
 <img src='https://img.shields.io/badge/yarn-v1.22.17-yellow?logo=yarn'/>
   <img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/>
    <img src='https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&logoColor=white'/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"/> 
 
-  **Backend Tech Stack** 
+**Backend Tech Stack** 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1??style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=AmazonAWS&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1??style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=AmazonAWS&logoColor=white"/> 
